@@ -1,0 +1,26 @@
+# 🔍 churn_prediction — Previsão de Churn de Clientes
+
+Este projeto criado no Google Colab utiliza dados simulados para prever a evasão de clientes (churn). O objetivo é mostrar como técnicas de machine learning podem ajudar empresas a identificar clientes com maior risco de saída.
+
+## 📌 Conteúdo
+
+- Geração de dados fictícios realistas
+- Análise exploratória de dados (EDA)
+- Pré-processamento (codificação e normalização)
+- Treinamento de modelo (Random Forest)
+- Avaliação com métricas e gráficos
+
+## ▶️ Como rodar
+
+1. Acesse o [notebook no Colab](https://colab.research.google.com/drive/1j8B_hnFLBOdo6VC4mcERQYDYHBV9RWs8)
+2. Execute célula por célula
+3. Todas as bibliotecas necessárias são instaladas no início
+
+## 📚 Bibliotecas utilizadas
+
+- pandas, numpy, matplotlib, seaborn
+- scikit-learn
+
+## 🤝 Licença
+
+Uso livre para fins educacionais.
